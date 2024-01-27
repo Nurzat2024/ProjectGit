@@ -1,2 +1,4 @@
-package android;public class GalaxyNote11 {
+package android;
+
+public class GalaxyNote11 {
 }
