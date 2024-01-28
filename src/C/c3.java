@@ -6,6 +6,5 @@ public class c3 {
     }
     public static void goTo(){
         System.out.println("Go go");
-        System.out.println("ffffff");
     }
 }
